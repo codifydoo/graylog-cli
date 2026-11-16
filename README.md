@@ -28,8 +28,8 @@
 ### Homebrew (recommended)
 
 ```bash
-brew tap davscro/homebrew-tap
-brew install davscro/homebrew-tap/graylogctl
+brew tap codifydoo/homebrew-tap
+brew install codifydoo/homebrew-tap/graylogctl
 graylogctl --help
 ```
 
